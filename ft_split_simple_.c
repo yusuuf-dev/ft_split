@@ -6,7 +6,7 @@
 /*   By: yoel-you <yoel-you@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/11/09 12:27:43 by yoel-you          #+#    #+#             */
-/*   Updated: 2025/11/09 12:31:19 by yoel-you         ###   ########.fr       */
+/*   Updated: 2025/11/09 12:33:43 by yoel-you         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
@@ -62,7 +62,6 @@ char **ft_split(char const *s, char c)
     char *tmp = NULL;
     char **ptrs = NULL;
     size_t i = 0;
-    int flag = 1;
 
     while (s && s[i])
     {
