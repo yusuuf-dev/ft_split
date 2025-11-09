@@ -6,13 +6,16 @@
 /*   By: yoel-you <yoel-you@student.1337.ma>        +#+  +:+       +#+        */
 /*                                                +#+#+#+#+#+   +#+           */
 /*   Created: 2025/11/09 12:25:12 by yoel-you          #+#    #+#             */
-/*   Updated: 2025/11/09 12:26:10 by yoel-you         ###   ########.fr       */
+/*   Updated: 2025/11/09 12:31:59 by yoel-you         ###   ########.fr       */
 /*                                                                            */
 /* ************************************************************************** */
 
 /*
     this main for testing and you need to complain using :
     cc main.c ft_split.c ft_strlen.c ft_strdup.c
+
+    if you want to test simple version compile with :
+    cc main.c ft_split_simple_.c ft_strlen.c ft_strdup.c
 */
 
 #include "header.h"
